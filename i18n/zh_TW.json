@@ -2663,7 +2663,8 @@
   },
   {
     "id": "store.sql_channel.save_channel.exists.app_error",
-    "translation": "A channel with that URL already exists"
+    #"translation": "A channel with that URL already exists"
+    "translation": "使用這個 URL 的頻道已經存在"
   },
   {
     "id": "store.sql_channel.save_channel.limit.app_error",
@@ -2671,11 +2672,13 @@
   },
   {
     "id": "store.sql_channel.save_channel.previously.app_error",
-    "translation": "A channel with that URL was previously created"
+    #"translation": "A channel with that URL was previously created"
+    "translation": "使用這個 URL 的頻道先前已被建立"
   },
   {
     "id": "store.sql_channel.save_channel.save.app_error",
-    "translation": "We couldn't save the channel"
+    #"translation": "We couldn't save the channel"
+    "translation": "無法儲存頻道"
   },
   {
     "id": "store.sql_channel.save_direct_channel.add_members.app_error",
@@ -2707,11 +2710,13 @@
   },
   {
     "id": "store.sql_channel.save_member.save.app_error",
-    "translation": "We couldn't save the channel member"
+    #"translation": "We couldn't save the channel member"
+    "translation": "無法儲存頻道成員"
   },
   {
     "id": "store.sql_channel.update.app_error",
-    "translation": "We couldn't update the channel"
+    #"translation": "We couldn't update the channel"
+    "translation": "無法更新頻道"
   },
   {
     "id": "store.sql_channel.update.exists.app_error",
